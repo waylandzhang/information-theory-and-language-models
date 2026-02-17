@@ -1,6 +1,9 @@
-#### 《信息论》与LLM语言模型建模
+#### Information Theory & LLM Language Modeling
 
-一个观点的探讨，从信息论角度理解现代大语言模型的关注度计算、训练目标的关系。
+Exploring the relationship between Shannon's information theory and modern large language models — attention computation, training objectives, and the connections between them.
 
-视频地址：
-https://www.bilibili.com/video/BV12XZMYQE8C
+Available in two languages:
+- **Chinese**: [information-theory-and-llm.ipynb](information-theory-and-llm.ipynb)
+- **English**: [information-theory-and-llm-en.ipynb](information-theory-and-llm-en.ipynb)
+
+Video (Chinese): https://www.bilibili.com/video/BV12XZMYQE8C
